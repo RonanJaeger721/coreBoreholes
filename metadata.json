@@ -1,0 +1,6 @@
+{
+  "name": "Core Borehole Drilling Zimbabwe",
+  "description": "Professional borehole drilling, water surveys, solar pumps, and water solutions in Zimbabwe. Reliable and long-term water access for homes, farms, and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
